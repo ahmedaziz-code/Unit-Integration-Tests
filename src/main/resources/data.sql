@@ -1,0 +1,1 @@
+INSERT INTO person(email, first_name, last_name) VALUES ('flen@softilys.tn', 'Flen', 'Ben Foulen');
